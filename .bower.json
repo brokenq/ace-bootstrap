@@ -11,7 +11,7 @@
     "skin"
   ],
   "license": "MIT",
-  "homepage": "https://gitlab.com/brokenq/ace-bootstrap.git",
+  "homepage": "https://github.com/brokenq/ace-bootstrap.git",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -27,7 +27,7 @@
     "branch": "master",
     "commit": "75a9bfc597db0dded2ccedb30d69b62495107d10"
   },
-  "_source": "git@gitlab.com:brokenq/ace-bootstrap.git",
+  "_source": "git@github.com:brokenq/ace-bootstrap.git",
   "_target": "*",
-  "_originalSource": "git@gitlab.com:brokenq/ace-bootstrap.git"
+  "_originalSource": "git@github.com:brokenq/ace-bootstrap.git"
 }

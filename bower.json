@@ -12,7 +12,7 @@
     "skin"
   ],
   "license": "MIT",
-  "homepage": "https://gitlab.com/brokenq/ace-bootstrap.git",
+  "homepage": "https://github.com/brokenq/ace-bootstrap.git",
   "ignore": [
     "**/.*",
     "node_modules",
