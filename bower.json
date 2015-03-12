@@ -1,0 +1,25 @@
+{
+  "name": "ace-bootstrap",
+  "version": "1.3.2",
+  "authors": [
+    "brokenq <brokenq@163.com>"
+  ],
+  "description": "A bootstrap skin named as ACE",
+  "main": "js/ace-bootstrap.js css/ace-bootstrap.css",
+  "keywords": [
+    "Bootstrap",
+    "ACE",
+    "skin"
+  ],
+  "license": "MIT",
+  "homepage": "https://gitlab.com/brokenq/ace-bootstrap.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests",
+    ".idea"
+  ]
+}
