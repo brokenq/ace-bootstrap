@@ -27,7 +27,7 @@
     "branch": "master",
     "commit": "75a9bfc597db0dded2ccedb30d69b62495107d10"
   },
-  "_source": "git@github.com:Kadvin/ace-bootstrap.git",
+  "_source": "git@gitlab.com:brokenq/ace-bootstrap.git",
   "_target": "*",
-  "_originalSource": "git@github.com:Kadvin/ace-bootstrap.git"
+  "_originalSource": "git@gitlab.com:brokenq/ace-bootstrap.git"
 }
